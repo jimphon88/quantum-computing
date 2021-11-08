@@ -1,2 +1,2 @@
-# Granger
-grager causation
+# Crypto Studies
+To the moon
