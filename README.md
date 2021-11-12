@@ -1,2 +1,3 @@
 # Crypto Studies
-To the moon
+To Infinity, and Beyond!
+![To Infinity, and Beyond!](./image/moon.png)
