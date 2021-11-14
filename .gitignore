@@ -1,1 +1,7 @@
+courses
+.vscode
+.git*
+.ipynb*
+*.pyc
+*.code*
 image
