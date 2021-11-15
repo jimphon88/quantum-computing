@@ -1,4 +1,5 @@
-"""This is for colors used in plotting 
+"""
+This is for colors used in plotting 
 """
 
 
