@@ -7,5 +7,5 @@ To Infinity, and Beyond!
 - [ ] VQE
 - [ ] clustering algorithms
 - [ ] forecast
-- [ ] Grover
+- [x] Grover
 - [ ] Shor
