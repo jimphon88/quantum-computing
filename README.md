@@ -9,3 +9,4 @@ To Infinity, and Beyond!
 - [ ] forecast
 - [x] Grover
 - [ ] Shor
+- [x] Deutsch-Jazsa
