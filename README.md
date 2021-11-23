@@ -5,7 +5,7 @@ To Infinity, and Beyond!
 ### To Do list for an ape
 - [x] QAOA
 - [ ] VQE
-- [ ] clustering algorithms
+- [x] clustering algorithms
 - [ ] forecast
 - [x] Grover
 - [ ] Shor
