@@ -8,5 +8,5 @@ To Infinity, and Beyond!
 - [x] clustering algorithms
 - [ ] forecast
 - [x] Grover
-- [ ] Shor
+- [x] Shor
 - [x] Deutsch-Jazsa
