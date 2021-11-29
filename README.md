@@ -4,7 +4,7 @@ To Infinity, and Beyond!
 
 ### To Do list for an ape
 - [x] QAOA
-- [ ] VQE
+- [ ] QAOA optimize parameters using GA
 - [x] clustering algorithms
 - [ ] forecast
 - [x] Grover
